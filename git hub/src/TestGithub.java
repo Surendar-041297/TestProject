@@ -7,13 +7,11 @@ public class TestGithub {
 		int b=30;
 		int c=a+b, d=c-a;
 		int e=c+d;
+		int f=e-d;
 		
 		System.out.println(c);
 		System.out.println(d);
 		System.out.println(e);
-		
-		
-
+		System.out.println(f);
 	}
-
 }
